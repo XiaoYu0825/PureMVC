@@ -1,0 +1,480 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\view\\nowtime\\nowtimepanelmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\view\\nowtime\\nowtimepanelmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\view\\nowtime\\nowtimeplaneview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\view\\nowtime\\nowtimeplaneview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\model\\nowtimedatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\model\\nowtimedatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\myfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\myfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\view\\mainpanelview\\mainpanelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\view\\mainpanelview\\mainpanelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\view\\mainpanelview\\mainpanelmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\view\\mainpanelview\\mainpanelmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\model\\playerdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\model\\playerdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|d:\\\u684C\u9762\\puremvc\\puremvc_demo-master\\puremvc_demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\model\\nowtimedataproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\model\\nowtimedataproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\model\\playerdataproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\model\\playerdataproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|d:\\\u684C\u9762\\puremvc\\puremvc_demo-master\\puremvc_demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\controller\\playcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\controller\\playcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\model\\bonusproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\model\\bonusproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\view\\mainpanelview\\bonusiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\view\\mainpanelview\\bonusiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\controller\\refreshbonuspoolcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\controller\\refreshbonuspoolcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\controller\\nowtimecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\controller\\nowtimecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\utility\\gameobjectutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\utility\\gameobjectutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\controller\\startupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\controller\\startupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcframework\\patterns\\facade\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcframework\\patterns\\facade\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\view\\rewardtipview\\rewardtipviewmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\view\\rewardtipview\\rewardtipviewmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\controller\\rewardtipcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\controller\\rewardtipcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\\u684C\u9762\\puremvc\\puremvc_demo-master\\puremvc_demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\controller\\nowcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\controller\\nowcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcexample\\_scripts\\model\\bonusvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcexample\\_scripts\\model\\bonusvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcframework\\interfaces\\ifacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcframework\\interfaces\\ifacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcframework\\core\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcframework\\core\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcframework\\core\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcframework\\core\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcframework\\interfaces\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcframework\\interfaces\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcframework\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcframework\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\assets\\_scripts\\puremvcframework\\patterns\\command\\macrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1FF7F1-80F8-713A-0739-BEC8FD81E164}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\puremvcframework\\patterns\\command\\macrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Facade.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCFramework\\Patterns\\Facade\\Facade.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCFramework\\Patterns\\Facade\\Facade.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCFramework\\Patterns\\Facade\\Facade.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCFramework\\Patterns\\Facade\\Facade.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAiwAwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:10:48.326Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPanelMediator.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\MainPanelView\\MainPanelMediator.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\MainPanelView\\MainPanelMediator.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\MainPanelView\\MainPanelMediator.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\MainPanelView\\MainPanelMediator.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAewE8AAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:35:57.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NowTimeDataModel.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\NowTimeDataModel.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\NowTimeDataModel.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\NowTimeDataModel.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\NowTimeDataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:02:18.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPanelView.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\MainPanelView\\MainPanelView.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\MainPanelView\\MainPanelView.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\MainPanelView\\MainPanelView.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\MainPanelView\\MainPanelView.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAMwBgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:28:52.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NowTimePanelMediator.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\NowTime\\NowTimePanelMediator.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\NowTime\\NowTimePanelMediator.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\NowTime\\NowTimePanelMediator.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\NowTime\\NowTimePanelMediator.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwDcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:37:58.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NowTimePlaneView.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\NowTime\\NowTimePlaneView.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\NowTime\\NowTimePlaneView.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\NowTime\\NowTimePlaneView.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\NowTime\\NowTimePlaneView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:37:54.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyFacade.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\MyFacade.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\MyFacade.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\MyFacade.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\MyFacade.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAlwGQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:12:57.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\App.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\App.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\App.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\App.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:05:59.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerDataModel.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\PlayerDataModel.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\PlayerDataModel.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\PlayerDataModel.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\PlayerDataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:21:11.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NowTimeDataProxy.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\NowTimeDataProxy.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\NowTimeDataProxy.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\NowTimeDataProxy.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\NowTimeDataProxy.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:10:13.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerDataProxy.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\PlayerDataProxy.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\PlayerDataProxy.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\PlayerDataProxy.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\PlayerDataProxy.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:01:09.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayCommand.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\PlayCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\PlayCommand.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\PlayCommand.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\PlayCommand.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAlwBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:11:00.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BonusProxy.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\BonusProxy.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\BonusProxy.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\BonusProxy.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\BonusProxy.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAUwBEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:00:59.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BonusIem.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\MainPanelView\\BonusIem.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\MainPanelView\\BonusIem.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\MainPanelView\\BonusIem.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\MainPanelView\\BonusIem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:30:14.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RefreshBonusPoolCommand.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\RefreshBonusPoolCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\RefreshBonusPoolCommand.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\RefreshBonusPoolCommand.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\RefreshBonusPoolCommand.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAApwC8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:01:20.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NowTimeCommand.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\NowTimeCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\NowTimeCommand.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\NowTimeCommand.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\NowTimeCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:27:11.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameObjectUtility.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Utility\\GameObjectUtility.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Utility\\GameObjectUtility.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Utility\\GameObjectUtility.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Utility\\GameObjectUtility.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowCEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:52:56.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StartUpCommand.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\StartUpCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\StartUpCommand.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\StartUpCommand.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\StartUpCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:20:16.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RewardTipViewMediator.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\RewardTipView\\RewardTipViewMediator.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\RewardTipView\\RewardTipViewMediator.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\RewardTipView\\RewardTipViewMediator.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\View\\RewardTipView\\RewardTipViewMediator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:51:36.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RewardTipCommand.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\RewardTipCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\RewardTipCommand.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\RewardTipCommand.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\RewardTipCommand.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:20:22.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BonusVO.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\BonusVO.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\BonusVO.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\BonusVO.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Model\\BonusVO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:21:05.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NOwCommand.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\NOwCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\NOwCommand.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\NOwCommand.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCExample\\_Scripts\\Controller\\NOwCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:26:49.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IFacade.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCFramework\\Interfaces\\IFacade.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCFramework\\Interfaces\\IFacade.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCFramework\\Interfaces\\IFacade.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCFramework\\Interfaces\\IFacade.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAArwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:11:05.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IView.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCFramework\\Interfaces\\IView.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCFramework\\Interfaces\\IView.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCFramework\\Interfaces\\IView.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCFramework\\Interfaces\\IView.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAApwDMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:11:14.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCFramework\\Core\\Model.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCFramework\\Core\\Model.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCFramework\\Core\\Model.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCFramework\\Core\\Model.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAewFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:11:18.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "View.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCFramework\\Core\\View.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCFramework\\Core\\View.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCFramework\\Core\\View.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCFramework\\Core\\View.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAvwMIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:11:27.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCFramework\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCFramework\\Core\\Controller.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCFramework\\Core\\Controller.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCFramework\\Core\\Controller.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAvwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:11:23.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MacroCommand.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCFramework\\Patterns\\Command\\MacroCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PureMVCFramework\\Patterns\\Command\\MacroCommand.cs",
+              "ToolTip": "D:\\\u684C\u9762\\PureMVC\\PureMVC_Demo-master\\PureMVC_Demo-master\\Assets\\_Scripts\\PureMVCFramework\\Patterns\\Command\\MacroCommand.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PureMVCFramework\\Patterns\\Command\\MacroCommand.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:11:31.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
